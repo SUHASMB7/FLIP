@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FLIP/static/css/main.aab873de.css",
+    "main.js": "/FLIP/static/js/main.e8315d4e.js",
+    "static/js/453.419a5d54.chunk.js": "/FLIP/static/js/453.419a5d54.chunk.js",
+    "static/media/revicons.eot": "/FLIP/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/FLIP/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/FLIP/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/FLIP/index.html",
+    "main.aab873de.css.map": "/FLIP/static/css/main.aab873de.css.map",
+    "main.e8315d4e.js.map": "/FLIP/static/js/main.e8315d4e.js.map",
+    "453.419a5d54.chunk.js.map": "/FLIP/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab873de.css",
+    "static/js/main.e8315d4e.js"
+  ]
+}
